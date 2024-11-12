@@ -114,3 +114,4 @@ const game = () => {
 
 //start the game function
 game();
+//made a comment
